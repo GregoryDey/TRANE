@@ -1,0 +1,11 @@
+<master version="5.3" minAllowVersion="5.3" ID="B2A6F51B-EAD6-4945-AAD8-FA23344F07F8">
+  <controls>
+    <control controlID="56A64D46-5A61-48C2-AA54-7CE5A0BAB49B" controlTypeID="Master" x="20" y="418" w="867" h="1813" zOrder="23" masterID="B2A6F51B-EAD6-4945-AAD8-FA23344F07F8">
+      <groupChildrenDescriptors>
+        <control controlID="283EF930-A74B-429A-BAF5-29DB4E77BE46" controlTypeID="Image" x="0" y="0" w="867" h="1813" zOrder="0">
+          <URL>CD2DC7633347F211915C71AE5D127E45.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

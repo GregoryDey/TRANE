@@ -1,0 +1,9 @@
+<master version="5.3" minAllowVersion="5.3" ID="2E2F0ED4-07D3-43E3-8809-BB8CEC1CE1C6">
+  <controls>
+    <control controlID="A9A98502-A989-4A1C-BEA4-F790334232D2" controlTypeID="Master" x="1216" y="47" w="12" h="10" zOrder="78" masterID="2E2F0ED4-07D3-43E3-8809-BB8CEC1CE1C6">
+      <groupChildrenDescriptors>
+        <control controlID="6D275B47-18EE-4A7F-BF5F-36CC0BF4B13B" controlTypeID="VRule" x="0" y="0" w="12" h="10" zOrder="0"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

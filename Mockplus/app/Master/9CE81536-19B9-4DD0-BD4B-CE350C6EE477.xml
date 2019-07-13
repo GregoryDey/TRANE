@@ -1,0 +1,17 @@
+<master version="5.3" minAllowVersion="5.3" ID="9CE81536-19B9-4DD0-BD4B-CE350C6EE477">
+  <controls>
+    <control controlID="ED65127B-BF9D-4A26-8281-F64845FAAFA7" controlTypeID="Master" x="125" y="2108" w="1135" h="245" zOrder="42" masterID="9CE81536-19B9-4DD0-BD4B-CE350C6EE477">
+      <groupChildrenDescriptors>
+        <control controlID="C892BB47-6909-4D19-8EA2-4BC011AEEF9E" controlTypeID="Accordion" x="0" y="0" w="1135" h="245" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>1.How+to+sign+up+in+Mockplus%3F%0D%0A-+There+are+two+ways+to+sign+up+in+Mockplus%3A%0D%0A-++Install+Mockplus+desktop+app+and+open+it+for+signing+up.%0D%0A-++Click+the+link%3A+https%3A%2F%2Fwww.mockplus.com%2Fuser%2Fregister+in+your+browser+to+sign+up.%0D%0A2.Do+I+need+to+pay+the+extra+fee+whenever+Mockplus+comes+out+with+a+new+updated+version%3F+%0D%0A-+After+the+purchase%2C+you+do+not+need+to+pay+an+extra+fee+for+any+new+version+or+update+of+Mockplus.%0D%0A-+If+you're+a+user+of+Free+version%2C+you+also+don't+need+to+pay+any+fee+for+the+new+versions+or+updates.%0D%0A3.Can+I+install+and+use+Mockplus+on+multiple+computers%3F%0D%0A-+Every+named+user%2C+with+both+a+desktop+and+a+secondary+laptop%2Fhome+computer%2C+can+legally+install+and+use+Mockplus+on+both+computers.</text>
+          <textSize>14</textSize>
+          <lineSpacing>18</lineSpacing>
+          <selectedColor>4291611852</selectedColor>
+          <showSeparator>False</showSeparator>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

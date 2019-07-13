@@ -1,0 +1,49 @@
+<master version="5.3" minAllowVersion="5.3" ID="F21DDD7C-5FFF-4C9B-BD85-0CEAC5252BD1">
+  <controls>
+    <control controlID="14C7705D-89D9-400C-91EA-7872C075E64E" controlTypeID="Master" x="1143" y="41" w="238" h="19" zOrder="76" masterID="F21DDD7C-5FFF-4C9B-BD85-0CEAC5252BD1">
+      <groupChildrenDescriptors>
+        <control controlID="ACB60F5C-5578-4958-9476-0DB59FB1F39C" controlTypeID="Label" x="29" y="0" w="42" h="19" zOrder="0">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Login</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="9E457DD7-924D-4167-96A4-EBAF564310EF" controlTypeID="Label" x="93" y="0" w="60" h="19" zOrder="1">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Register</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3BD3B5D9-D327-49DB-B34C-257B348408C5" controlTypeID="Label" x="164" y="0" w="74" h="19" zOrder="2">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%5B+Chinese+%5D</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="592313AB-AE6A-4441-8910-FCD1F6467402" controlTypeID="Icon" x="0" y="1" w="18" h="18" zOrder="3">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62368</iconCode>
+          </icon>
+          <URL>B91434690C5B5224D1CC6B1998F1178A.svg</URL>
+        </control>
+        <control controlID="9EA2322A-DAA5-47BF-98D7-67B4B1A6A655" controlTypeID="VRule" x="74" y="5" w="12" h="10" zOrder="4">
+          <color>4290493371</color>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

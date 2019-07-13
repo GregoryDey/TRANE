@@ -1,0 +1,197 @@
+﻿<project version="2.9" name="Mockplus" ID="25A51120-DDBD-41AE-AA7C-7EF4FE405676">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1400,3000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptTeamProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" expanded="True" code="xvGJ99e5Cr" thumbCode="vSjwEh6SZd" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="263797" createdate="2019-06-08 16:27:25" modifieddate="2019-06-11 18:32:17" isdeleted="False" ismodified="True" syncversion="1" lasteditor="263797">
+      <images>
+        <image key="6C1C348E243738FCC57BA43A2C5833CD.png"/>
+        <image key="BD244653370210F329CA92121EFF653A.png"/>
+        <image key="FF408794E8B4D94176C4335EE7C323E9.jpg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="2CEC8EFD36AAB58C2EFDB2CCE326CBC9.png"/>
+        <image key="6D9DE460B30E3245471F29397053F21A.png"/>
+        <image key="467403E68414E0782B5E45504EB85C69.jpg"/>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="893316373D9BB0139FCD554DA33A585B.png"/>
+        <image key="A1F9FB8D20DB121A238683C248309F27.png"/>
+        <image key="0C0698D1262EB0DD7F035A87C222F4AD.png"/>
+        <image key="9E689BB43A28E7A57A9379C669E01627.png"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+    <page name="Features" ID="BD193AFF-70A0-41C2-A87E-D5AA02699736" expanded="True" code="IGKfoDwO9O" thumbCode="IGKfoDwO9O" status="psWhite" isfolder="False" isshownode="True" author="263797" createdate="2019-06-08 16:27:25" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg"/>
+        <image key="A615B96B733DD98ED88FAF889CD95241.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="9AEAEA85A9D10000E88E832FCCCC4817.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+    <page name="Download" ID="66E9059F-8141-410B-AB04-14EE23772128" expanded="True" code="QR4LpwwqOt" thumbCode="QR4LpwwqOt" status="psWhite" isfolder="False" isshownode="True" author="263797" createdate="2019-06-08 16:27:25" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+        <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="889E208791BEEA5925F0E9D3A28E4DF6.svg"/>
+        <image key="5463271C540250F770DA8A5721C9E4F4.svg"/>
+        <image key="7C3E7556DFF0200716C95095C3332CD1.svg"/>
+        <image key="BDF25A843A3C8925DA92BCDA8DEC8559.svg"/>
+      </images>
+    </page>
+    <page name="Support" ID="D639310A-16BF-4432-AA5C-140F25963633" expanded="True" code="5kwQSwjahl" thumbCode="5kwQSwjahl" status="psWhite" isfolder="False" isshownode="True" author="263797" createdate="2019-06-08 16:27:25" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="38885A15B9939C199B54AF90AB2E7BC5.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="452A1108CEAE2C044CFCAF610C27E444.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+        <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+    <page name="What's New" ID="21EDE6BF-82D9-4FD8-8511-A5E9370AA192" expanded="True" code="tOrxyxJ1Qr" thumbCode="tOrxyxJ1Qr" status="psWhite" isfolder="False" isshownode="True" author="263797" createdate="2019-06-08 16:27:25" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="CD2DC7633347F211915C71AE5D127E45.png"/>
+        <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+        <image key="28CAC8B5F3DA0602E0DF8897FD0F0A97.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Features" ID="051C724B-7FB7-46E7-B421-22267E351ABC" expanded="False" code="7nmbZz5vKD" thumbCode="UvKMjHSqHj" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="0" createdate="1899-12-30 00:00:00" modifieddate="1899-12-30 00:00:00" isdeleted="False" ismodified="False" syncversion="0" lasteditor="0">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes>
+    <pages/>
+    <masters/>
+  </deletes>
+  <masters>
+    <master name="Master" ID="24338112-78F9-4D38-8F21-F0FAFA2D27E7" code="tDY5PMFi48" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages>
+        <page ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" refCount="1"/>
+      </refPages>
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </master>
+    <master name="Master1" ID="E8DB42B2-EA9C-4860-A2FB-CD5E13B65F3F" code="wGmpl81msA" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages/>
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+      </images>
+    </master>
+    <master name="Master2" ID="1B259074-56BF-43DD-8952-280A1430C009" code="enrt6aRpJc" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages>
+        <page ID="BD193AFF-70A0-41C2-A87E-D5AA02699736" refCount="1"/>
+        <page ID="66E9059F-8141-410B-AB04-14EE23772128" refCount="1"/>
+        <page ID="D639310A-16BF-4432-AA5C-140F25963633" refCount="1"/>
+        <page ID="21EDE6BF-82D9-4FD8-8511-A5E9370AA192" refCount="1"/>
+      </refPages>
+      <images>
+        <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+        <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+        <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </master>
+    <master name="Master3" ID="B2A6F51B-EAD6-4945-AAD8-FA23344F07F8" code="O7bCEZlXI6" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages/>
+      <images>
+        <image key="CD2DC7633347F211915C71AE5D127E45.png"/>
+      </images>
+    </master>
+    <master name="Master4" ID="9CE81536-19B9-4DD0-BD4B-CE350C6EE477" code="pCccxEbfGd" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages>
+        <page ID="D639310A-16BF-4432-AA5C-140F25963633" refCount="1"/>
+        <page ID="66E9059F-8141-410B-AB04-14EE23772128" refCount="1"/>
+      </refPages>
+    </master>
+    <master name="Master5" ID="2E2F0ED4-07D3-43E3-8809-BB8CEC1CE1C6" code="FtYs6hXEu8" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages/>
+    </master>
+    <master name="Master6" ID="F21DDD7C-5FFF-4C9B-BD85-0CEAC5252BD1" code="cxfuKBc9tN" status="psWhite" createDate="2019-06-08 16:27:25" author="263797" modifieddate="2019-06-08 16:27:25" isdeleted="False" ismodified="False" syncversion="1" lasteditor="263797">
+      <refPages>
+        <page ID="BD193AFF-70A0-41C2-A87E-D5AA02699736" refCount="1"/>
+        <page ID="66E9059F-8141-410B-AB04-14EE23772128" refCount="1"/>
+        <page ID="D639310A-16BF-4432-AA5C-140F25963633" refCount="1"/>
+        <page ID="21EDE6BF-82D9-4FD8-8511-A5E9370AA192" refCount="1"/>
+      </refPages>
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg"/>
+    <image key="A615B96B733DD98ED88FAF889CD95241.svg"/>
+    <image key="6C1C348E243738FCC57BA43A2C5833CD.png"/>
+    <image key="BD244653370210F329CA92121EFF653A.png"/>
+    <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+    <image key="2CEC8EFD36AAB58C2EFDB2CCE326CBC9.png"/>
+    <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+    <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
+    <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+    <image key="467403E68414E0782B5E45504EB85C69.jpg"/>
+    <image key="0C0698D1262EB0DD7F035A87C222F4AD.png"/>
+    <image key="9E689BB43A28E7A57A9379C669E01627.png"/>
+    <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+    <image key="CD2DC7633347F211915C71AE5D127E45.png"/>
+    <image key="889E208791BEEA5925F0E9D3A28E4DF6.svg"/>
+    <image key="28CAC8B5F3DA0602E0DF8897FD0F0A97.svg"/>
+    <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+    <image key="BDF25A843A3C8925DA92BCDA8DEC8559.svg"/>
+    <image key="5463271C540250F770DA8A5721C9E4F4.svg"/>
+    <image key="9AEAEA85A9D10000E88E832FCCCC4817.svg"/>
+    <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+    <image key="FF408794E8B4D94176C4335EE7C323E9.jpg"/>
+    <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+    <image key="6D9DE460B30E3245471F29397053F21A.png"/>
+    <image key="7C3E7556DFF0200716C95095C3332CD1.svg"/>
+    <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
+    <image key="38885A15B9939C199B54AF90AB2E7BC5.svg"/>
+    <image key="893316373D9BB0139FCD554DA33A585B.png"/>
+    <image key="452A1108CEAE2C044CFCAF610C27E444.svg"/>
+    <image key="A1F9FB8D20DB121A238683C248309F27.png"/>
+    <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+  </images>
+  <enterprise syncid="BlPkza7S9rlGrk" author="263797" syncversion="1" ismodified="True" createtime="2019-06-08 16:27:25" istitlemodified="False"/>
+</project>

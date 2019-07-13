@@ -1,0 +1,140 @@
+<master version="5.3" minAllowVersion="5.3" ID="1B259074-56BF-43DD-8952-280A1430C009">
+  <controls>
+    <control controlID="9CB9FA81-098F-425E-ACBB-2E57DF59C63D" controlTypeID="Master" x="0" y="3164" w="1400" h="80" zOrder="20" masterID="1B259074-56BF-43DD-8952-280A1430C009">
+      <groupChildrenDescriptors>
+        <control controlID="75EF6438-F416-4A26-A078-47A152020455" controlTypeID="Shape" x="0" y="0" w="1400" h="80" zOrder="0">
+          <color>4279374612</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="60828136-096B-45B8-9A7C-A708FB6C2B79" controlTypeID="Label" x="669" y="32" w="314" h="16" zOrder="1">
+          <color>16777215</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%C2%A9+2014-2018+Jongde+Software+LLC+All+rights+reserved.</text>
+          <textColor>4284900966</textColor>
+          <textSize>12</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>16</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="301BD238-1313-4343-9922-9EEE63E8B1AB" controlTypeID="Label" x="157" y="30" w="115" h="19" zOrder="2">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4288256409" varType="20"/>
+          </states>
+          <color>16777215</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Terms+of+Service+</text>
+          <textColor>4291611852</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>18</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1669CA9F-FD80-4198-92D8-402C070B5DE3" controlTypeID="Label" x="305" y="30" w="96" h="19" zOrder="3">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4288256409" varType="20"/>
+          </states>
+          <color>16777215</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Privacy+Policy+</text>
+          <textColor>4291611852</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>18</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0DFCD1BC-AD45-45E8-BDFA-BFC3794C4CE0" controlTypeID="Label" x="439" y="30" w="64" h="19" zOrder="4">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4288256409" varType="20"/>
+          </states>
+          <color>16777215</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Site+Map</text>
+          <textColor>4291611852</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>18</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="64FD6839-84EA-480F-B16F-ED5B1F937A8F" controlTypeID="Icon" x="1094" y="28" w="24" h="24" zOrder="5">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
+          </states>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61570</iconCode>
+          </icon>
+          <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
+        </control>
+        <control controlID="14B8DAFB-763A-4130-9100-08699EFD6C60" controlTypeID="Icon" x="1135" y="28" w="24" h="24" zOrder="6">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
+          </states>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61569</iconCode>
+          </icon>
+          <URL>520A776503D70E7FC53BE8D209CC96C1.svg</URL>
+        </control>
+        <control controlID="090697E2-EF4A-4390-B01F-4CB43621D806" controlTypeID="Icon" x="1174" y="28" w="24" h="24" zOrder="7">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
+          </states>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61652</iconCode>
+          </icon>
+          <URL>282331BE75C40FB6D299F787B7BFD38F.svg</URL>
+        </control>
+        <control controlID="43CAD217-CA06-441F-B3D1-52975EDC0AAE" controlTypeID="Icon" x="1052" y="28" w="24" h="24" zOrder="8">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
+          </states>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61580</iconCode>
+          </icon>
+          <URL>24B6825248D2E3B41E6A51EC7FE24971.svg</URL>
+        </control>
+        <control controlID="3DD7B6DC-0083-4EB9-90A9-3924953A972D" controlTypeID="Icon" x="1009" y="27" w="26" h="26" zOrder="9">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
+          </states>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62029</iconCode>
+          </icon>
+          <URL>4529DADA0AD1F8BF89E5709239A0C3BD.svg</URL>
+        </control>
+        <control controlID="FBD55785-C1F3-44F4-A475-4EF271F70D06" controlTypeID="Image" x="19" y="25" w="96" h="30" zOrder="10">
+          <caption>logo</caption>
+        </control>
+        <control controlID="E8E2E00D-9B9C-4F2E-B5CA-7FD638094792" controlTypeID="Button" x="1228" y="0" w="172" h="80" zOrder="11">
+          <states>
+            <state propName="Color" stateType="state_mouseOver" isChecked="True" value="3854383616" varType="20"/>
+          </states>
+          <color>4290591232</color>
+          <borderVisible>False</borderVisible>
+          <borderColor>4290591232</borderColor>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>FREE+TRIAL</text>
+          <textColor>4294967295</textColor>
+          <textSize>16</textSize>
+          <lineSpacing>21</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>0</radius>
+          <thickness>2</thickness>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

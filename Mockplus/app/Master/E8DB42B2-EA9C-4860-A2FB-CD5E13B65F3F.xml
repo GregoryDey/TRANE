@@ -1,0 +1,132 @@
+<master version="5.3" minAllowVersion="5.3" ID="E8DB42B2-EA9C-4860-A2FB-CD5E13B65F3F">
+  <controls>
+    <control controlID="285E1C09-AD1A-474D-BBE9-658683C85A53" controlTypeID="Master" x="20" y="36" w="1361" h="30" zOrder="9" masterID="E8DB42B2-EA9C-4860-A2FB-CD5E13B65F3F">
+      <groupChildrenDescriptors>
+        <control controlID="8A6588CE-4BD5-4573-AC47-F267B96B6D43" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0">
+          <caption>logo</caption>
+        </control>
+        <control controlID="511F81AC-830C-4B95-B95C-006602FDE55E" controlTypeID="Label" x="1152" y="5" w="38" h="19" zOrder="1">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>login</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="587F0943-0337-4BBA-8E42-4D31E8F01E05" controlTypeID="Label" x="1216" y="5" w="60" h="19" zOrder="2">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Register</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C1345705-9AF4-4AE4-BD6B-78AC66BF8F9A" controlTypeID="Label" x="1287" y="5" w="74" h="19" zOrder="3">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%5B+Chinese+%5D</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="14F765BD-2BBB-4EEC-8660-6F9FE890D623" controlTypeID="Icon" x="1123" y="6" w="18" h="18" zOrder="4">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62368</iconCode>
+          </icon>
+          <URL>B91434690C5B5224D1CC6B1998F1178A.svg</URL>
+        </control>
+        <control controlID="B78128AE-E303-4498-90C2-35F5CE2C6C55" controlTypeID="VRule" x="1196" y="10" w="12" h="10" zOrder="5">
+          <color>4292730333</color>
+        </control>
+        <control controlID="89613B95-A394-4AA6-9CCD-8488171EC6EF" controlTypeID="Label" x="609" y="5" w="86" h="19" zOrder="6">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>What's+New</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="8F234E15-F38F-49AB-8176-FEFE79C9339B" controlTypeID="Label" x="397" y="5" w="62" h="19" zOrder="7">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Features</text>
+          <textColor>4281545523</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F5619D7A-186D-4CD3-9F70-03D9F2B2C43D" controlTypeID="Label" x="498" y="5" w="73" h="19" zOrder="8">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Download</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="5F7E59D8-80C9-4276-88D2-AD10DA65C660" controlTypeID="Label" x="733" y="5" w="30" h="19" zOrder="9">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Buy</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="95AF259B-1036-47A4-8C29-0337E4646AF5" controlTypeID="Label" x="798" y="5" w="35" h="19" zOrder="10">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Blog</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="236807D3-8AB1-4173-B64B-A10574C57BCC" controlTypeID="Label" x="867" y="5" w="59" h="19" zOrder="11">
+          <states>
+            <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4281545523" varType="20"/>
+          </states>
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{47BAC819-9C11-433E-A3CE-710298F4A94B}" coords="(0,0,59,19)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="E853C3A6-E8DB-4E20-90C5-828C4A2350CE" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Popup State Change" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="0" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="Value" value="0" varType="3" description=""/>
+                        <param name="AniType" value="0" varType="3" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Support</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>
