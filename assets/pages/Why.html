@@ -7,16 +7,17 @@
 
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<link rel="stylesheet" href="../assets/css/footer.css">
-<link rel="stylesheet" href="../assets/css/other.css">
+<link rel="stylesheet" href="../css/footer.css">
+<link rel="stylesheet" href="../css/style.css">
+
 <style>
 .con{
 
   background-color:#ffffff;
   height:100vh;
 }
-
-
+/* test */
+/* i can push now  */
 
 #page-container {
   position: relative;
@@ -40,10 +41,14 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-md navbar-dark navbar-reverse" style="background-color: #fbfbfb;" >
-<img src="../assets/img/tranelogo.png" width="120" height="auto" class="d-inline-block align-top" alt="">
-<img src="../assets/img/mitlogo.png" width="120" height="auto" class="d-inline-block align-top" hspace="12"alt="">
-    <img src="../assets/img/flaglogo.png" width="40" height="auto" class="d-inline-block align-top"   alt="">
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark nav-h-style">
+
+<img src="../img/tranelogo.png" width="120" height="auto" class="d-inline-block align-top" alt="">
+
+<img src="../img/mitlogo.png" width="120" height="auto" class="d-inline-block align-top" hspace="12"alt="">
+
+    <img src="../img/flaglogo.png" width="40" height="auto" class="d-inline-block align-top"   alt="">
 
 
 
@@ -57,7 +62,6 @@
 
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-
        <span class="navbar-toggler-icon "></span>
      </button>
 
@@ -67,16 +71,16 @@
     <div class="collapse navbar-collapse nav-link text-right" id="navbarNav">
 
 
-      <ul class="navbar-nav ml-auto nav-link mt-lg " >
+      <ul class="navbar-nav mx-auto nav-link mt-lg font-style-nav" id="pad-right" >
 
 
 
-        <li class="nav-item active" >
+        <li class="nav-item">
 
-          <a class="nav-link nav-link-ltr" href="#">About <span class="sr-only">(current)</span></a>
+          <a class="nav-link nav-link-ltr" href="#">About</a>
         </li>
-        <li class="nav-item ">
-          <a class="nav-link nav-link-ltr" href="#">Why Trane</a>
+        <li class="nav-item active ">
+          <a class="nav-link nav-link-ltr" href="#"> Why Trane  <span class="sr-only"> (current) </span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link nav-link-ltr" href="#">Projects</a>
@@ -87,6 +91,18 @@
         <li class="nav-item">
           <a class="nav-link nav-link-ltr" href="#">Contact</a>
         </li>
+      </ul>
+        <ul class="navbar-nav ml-auto nav-link mt-lg fa-ul font-style-nav" >
+
+    <li><span class="fa-li"><i class="fas fa-user" style="padding-top: 6px; padding-left: 15px; color : red"></i></span>
+      <a class="nav-link" href="#">Login</a></li>
+
+      </li>
+        <li class="nav-item">
+          <a class="nav-link nav-link-ltr" href="#">Register</a>
+        </li>
+
+
       </ul>
     </div>
   </nav>
